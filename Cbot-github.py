@@ -1,6 +1,6 @@
 # Discord community coaching bot
 # Works with Python 3.6
-# Made by Leon Zhu - Leonzhu1@umbc.edu
+# Made by Leon Zhu - LZhu7080@gmail.com
 # Github: DD-LZ
 
 # MANY SIGNIFICANT PARTS OF CODE ARE LEFT OUT FOR PRIVACY
